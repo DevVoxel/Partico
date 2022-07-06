@@ -1,3 +1,10 @@
+# Partico
+Partico Accounts Manager.
+
+This will be a website used as a type of account share/manage platform.  Secure and open source, but best used with friends and privately hosted.
+
+I decided to try and use SvelteKit for this project!!
+
 # SvelteKit
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte), deployed to [Vercel](https://vercel.com).
