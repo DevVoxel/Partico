@@ -5,6 +5,8 @@ This will be a website used as a type of account share/manage platform.  Secure 
 
 I decided to try and use SvelteKit for this project!!
 
+I may end up using Bun as my Javascript Runtime instead of Node.js, but that is yet to be decided.
+
 # SvelteKit
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte), deployed to [Vercel](https://vercel.com).
